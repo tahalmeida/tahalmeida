@@ -1,4 +1,8 @@
 ## Hi there 👋
+Meu nome é Thais Almeida
+estou estudando na alura
+estou me desenvolvendo na linguagem JavaScript
+ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **tahalmeida/tahalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
